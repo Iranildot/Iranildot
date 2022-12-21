@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iranildo
+- 👋 Hi, I’m Iranildo and I'm from Brazil
 - 👀 I’m interested in discovering new skills
 - 🌱 I’m currently learning GUI in Python
 - 📫 How to reach me iranildoalves7@gmail.com
